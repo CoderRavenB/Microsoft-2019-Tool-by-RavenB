@@ -26,3 +26,5 @@ Office Deploy Tool ile Windows 7 ve 8.1 üzerinde de Office 2019 kurulumu yapabi
 Otomatik Etkinleştirme seçeneği şu durumlarda çalışır:
 
 Eğer bilgisayarınızda Windows önceden KMS Inject yöntemi ile etkinleştirilmiş ve KMS Görev Zamanla da etkin ise veya orijinal KMS sunucuları ile etkinleştirlmiş ise kurulum sonrasında da Office 2019 otomatik etkinleştirilecektir.
+
+![Template](https://user-images.githubusercontent.com/107938857/176050280-db2aaab6-77f3-4ca6-8eca-17c0e0c9a15f.jpg)
