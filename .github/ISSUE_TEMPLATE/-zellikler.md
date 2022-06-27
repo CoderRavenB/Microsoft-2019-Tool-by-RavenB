@@ -1,16 +1,11 @@
 ---
-name: Özellikler
+Adı: Microsoft Office 2019 Tool By RavenB
 about: Office Deploy Tool aracı, setup.exe dosyasına ihtiyaç duymadan çevrimdışı Office
   2019 yüklemek için kullanılan otomatikleştirilmiş bir komut dosyasıdır.
-title: Özellikler
-labels: ''
-assignees: ''
-
----
+Başlık: Özellikler
 
 Office Deploy Tool aracı, setup.exe dosyasına ihtiyaç duymadan çevrimdışı Office 2019 yüklemek için kullanılan otomatikleştirilmiş bir komut dosyasıdır. NOT 1: Office Deploy Tool aracı ile sadece Volume kanalı ile yükleme yapılabilir, RETAIL kanalı ile yükleme yapılamaz. NOT 2: OfficeVL.cmd dosyası otomatik yönetici modunda çalışır, çift tıklamanız yeterlidir.
 
-ÖZELLİKLERİ:
 
 Ürün Paketlerini veya tek uygulamaları ayrı ayrı yükleyebilirsiniz. Birden fazla dilde ayrı ayrı veya birlikte kurulum yapabilirsiniz. (en fazla 9 dil) Kurulum sonrası bazı ayarları (etkinleştirme-güncelleştirme vb.) kurulum öncesinde belirleyebilirsiniz. OfficeVL.cmd dosyasını kaynak klasörün yanında çalıştırdığınızda otomatik algılayacaktır.
 
